@@ -1,2 +1,2 @@
-Criando um programa que analisa se os dados inseridos podem formar um triangulo.
-Caso seja possivel ira informar qual o tipo de triangulo se eh equilatero, escaleno ou isosceles.
+Creating a program that analyzes whether the entered data can form a triangle. 
+If possible, inform which type of triangle equilateral, scalene or isosceles.
